@@ -14,7 +14,7 @@ Learn basic Linux navigation, file management, and terminal commands using Ubunt
 
 ---
 
-## Commands Used
+## Commands Executed
 
 ```bash
 whoami
