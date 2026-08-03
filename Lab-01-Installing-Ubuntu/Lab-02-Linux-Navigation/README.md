@@ -2,70 +2,56 @@
 
 ## Objective
 
-Learn the essential Linux terminal commands used to navigate the file system and manage files and directories.
+Learn basic Linux navigation, file management, and terminal commands using Ubuntu 24.04 running in Oracle VirtualBox.
 
 ---
 
 ## Environment
 
-Operating System:
 - Ubuntu 24.04 LTS
-
-Terminal:
-- Bash
-
----
-
-## Commands Practiced
-
-| Command | Purpose |
-|----------|---------|
-| pwd | Display current directory |
-| ls | List files and folders |
-| cd | Change directories |
-| mkdir | Create a directory |
-| touch | Create a file |
-| cp | Copy files |
-| mv | Move or rename files |
-| rm | Remove files |
-| cat | Display file contents |
-| clear | Clear terminal screen |
-| history | Display command history |
+- Oracle VirtualBox
+- Bash Terminal
 
 ---
 
-## Example Commands
+## Commands Used
 
 ```bash
+whoami
 pwd
-
 ls
-
-mkdir Practice
-
-cd Practice
-
+ls -la
+mkdir CyberLab
+cd CyberLab
 touch notes.txt
-
-ls
-
+nano notes.txt
 cat notes.txt
-
-history
 ```
+
+---
+
+## Tasks Completed
+
+- Verified logged-in user
+- Displayed current working directory
+- Listed files and hidden files
+- Created a new directory
+- Navigated into the directory
+- Created a text file
+- Edited a file using Nano
+- Verified file contents using cat
 
 ---
 
 ## Skills Demonstrated
 
 - Linux Terminal
-- File Navigation
-- Directory Management
+- Directory Navigation
 - File Management
 - Bash Commands
+- Nano Text Editor
 
 ---
 
-## Status
+## Screenshots
 
-🟡 In Progress
