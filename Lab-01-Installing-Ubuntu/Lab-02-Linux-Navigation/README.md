@@ -16,19 +16,15 @@ Learn basic Linux navigation, file management, and terminal commands using Ubunt
 
 ## Commands Executed
 
-```bash
-whoami
-pwd
-ls
-ls -la
-mkdir CyberLab
-cd CyberLab
-touch notes.txt
-nano notes.txt
-cat notes.txt
-```
-
----
+whoami            # Display current logged-in user
+pwd               # Print working directory
+ls                # List directory contents
+ls -la            # Show hidden files
+mkdir CyberLab    # Create directory
+cd CyberLab       # Change directory
+touch notes.txt   # Create empty file
+nano notes.txt    # Edit file
+cat notes.txt     # Display file contents
 
 ## Tasks Completed
 
