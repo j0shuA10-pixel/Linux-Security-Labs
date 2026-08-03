@@ -14,8 +14,9 @@ Learn basic Linux navigation, file management, and terminal commands using Ubunt
 
 ---
 
-## Commands Executed
+## Commands Used
 
+```bash
 whoami
 pwd
 ls
@@ -25,6 +26,9 @@ cd CyberLab
 touch notes.txt
 nano notes.txt
 cat notes.txt
+```
+
+---
 
 ## Tasks Completed
 
@@ -50,4 +54,3 @@ cat notes.txt
 ---
 
 ## Screenshots
-
